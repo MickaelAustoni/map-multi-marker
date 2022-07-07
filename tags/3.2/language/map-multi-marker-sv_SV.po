@@ -1,0 +1,354 @@
+# Translation of Plugins - Map Multi Marker - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Map Multi Marker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-24 17:43:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Map Multi Marker - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "The easiest, useful and powerful google map plugin ! Easily create an unlimited number of google map and marker."
+msgstr "Det enklaste, mest användbara och kraftfullaste Google Map-tillägget!  Skapa enkelt ett obegränsat antal Google Map och markörer."
+
+#: inc/function.php:856
+msgid "to work properly."
+msgstr "för att fungera korrekt."
+
+#: inc/function.php:852
+msgid "on the setting page"
+msgstr "på inställningssidan"
+
+#: inc/function.php:850
+msgid "Now, before you start using Map Multi Marker, please note that it is necessary to register your API key"
+msgstr "Innan du börjar använda Map Multi Marker, observera att det är nödvändigt att registrera din  API-nyckel"
+
+#: inc/function.php:800
+msgid "Use this image"
+msgstr "Använd denna bild"
+
+#: inc/function.php:799
+msgid "Select a image to upload"
+msgstr "Välj en bild att ladda upp"
+
+#: inc/function.php:264
+msgid "Required fields."
+msgstr "Obligatoriska fält"
+
+#: inc/function.php:263
+msgid "Please choose a file."
+msgstr "Välj en fil.  "
+
+#: inc/function.php:239
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/function.php:239
+msgid "Settings Map Multi Marker"
+msgstr "Inställningar för Map Multi Marker"
+
+#: admin/admin-map-multi-marker.php:165
+msgid "Import .csv"
+msgstr "Importera .csv"
+
+#: admin/admin-map-multi-marker.php:35
+msgid "Error csv file upload."
+msgstr "Fel vid uppladdning av csv-fil."
+
+#: admin/admin-map-multi-marker.php:32
+msgid "Error SQL."
+msgstr "SQL-fel."
+
+#: admin/admin-map-multi-marker.php:30
+msgid "Please choose a valid file."
+msgstr "Välj en giltig fil."
+
+#: admin/admin-map-multi-marker.php:24
+msgid "Your csv file has been successfully downloaded."
+msgstr "Din csv-fil har laddats ner utan problem."
+
+#: admin/admin-map-multi-marker-settings.php:61
+msgid "Get a google API key"
+msgstr "Hämta en API-nyckel från Google"
+
+#: admin/admin-map-multi-marker-settings.php:45
+msgid "Map language"
+msgstr "Kartspråk"
+
+#: admin/admin-map-multi-marker-option.php:316
+msgid "Default marker icon when a new marker is created"
+msgstr ""
+
+#: admin/admin-map-multi-marker-option.php:309
+#: admin/admin-map-multi-marker-option.php:331
+msgid "Change image"
+msgstr "Ändra bild"
+
+#: admin/admin-map-multi-marker-option.php:294
+msgid "Default image tooltip when a new marker is created"
+msgstr "Standardbild för inforuta när en ny markör är skapad"
+
+#: admin/admin-map-multi-marker-option.php:225
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin/admin-map-multi-marker-manage.php:81
+msgid "Click to copy the shotcode"
+msgstr "Klicka för att kopiera kortkod"
+
+#: admin/admin-map-multi-marker-manage.php:73
+msgid "Back"
+msgstr "Tillbaka"
+
+#: admin/admin-map-multi-marker-help.php:19
+msgid "Example of CSV file separated by \";\"."
+msgstr ""
+
+#: inc/function.php:706
+msgid "Donate"
+msgstr "Donera"
+
+#: admin/admin-map-multi-marker-option.php:267
+msgid "Fields to display in tooltip"
+msgstr "Fält att visa  i inforuta"
+
+#: admin/admin-map-multi-marker-option.php:253
+msgid "Streetview"
+msgstr "Gatuvy"
+
+#: admin/admin-map-multi-marker-option.php:239
+msgid "Scrollwheel zoom"
+msgstr "Zooma med mushjulet"
+
+#: admin/admin-map-multi-marker-option.php:158
+msgid "Initial zoom"
+msgstr "Initial zoom"
+
+#. Author of the plugin/theme
+msgid "Mickael Austoni"
+msgstr "Mickael Austoni"
+
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://mickael.austoni.fr"
+msgstr "http://mickael.austoni.fr"
+
+#: inc/function.php:640
+msgid "Do you confirm the suppression of the marker ?"
+msgstr ""
+
+#: inc/function.php:623 inc/function.php:644
+msgid "Confirm"
+msgstr "Bekräfta"
+
+#: inc/function.php:621 inc/function.php:642
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: inc/function.php:619
+msgid "Do you confirm the suppression of the map ?"
+msgstr ""
+
+#: inc/function.php:603
+msgid "Your marker been created."
+msgstr "Din markör har skapats."
+
+#: inc/function.php:240
+msgid "Help Map Multi Marker"
+msgstr "Hjälp Map Multi Marker"
+
+#: admin/admin-map-multi-marker-settings.php:39
+msgid "Google API"
+msgstr "Google API"
+
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/function.php:237
+msgid "Map Multi Marker"
+msgstr "Map Multi Marker"
+
+#: inc/function.php:104
+msgid "Constructed in 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France..."
+msgstr ""
+
+#: inc/function.php:103
+msgid "Eiffel Tower"
+msgstr "Eiffeltornet"
+
+#: inc/function.php:55
+msgid "Example map"
+msgstr "Exempelkarta"
+
+#: admin/admin-map-multi-marker.php:391
+msgid "Add"
+msgstr "Lägg till"
+
+#: admin/admin-map-multi-marker.php:223
+msgid "Action"
+msgstr "Åtgärd"
+
+#: admin/admin-map-multi-marker.php:222 admin/admin-map-multi-marker.php:387
+msgid "Longitude"
+msgstr "Longitud"
+
+#: admin/admin-map-multi-marker.php:221 admin/admin-map-multi-marker.php:384
+msgid "Latitude"
+msgstr "Latitud"
+
+#: admin/admin-map-multi-marker.php:176
+msgid "Marker"
+msgstr "Markör"
+
+#: admin/admin-map-multi-marker.php:155
+msgid "Management marker"
+msgstr "Hantera markörer"
+
+#: admin/admin-map-multi-marker.php:128
+msgid "Your marker been edited."
+msgstr "Din markör har redigerats."
+
+#: admin/admin-map-multi-marker.php:77
+msgid "Your marker been deleted."
+msgstr "Din markör har tagits bort. "
+
+#: admin/admin-map-multi-marker-option.php:342
+msgid "Save options"
+msgstr "Spara alternativ"
+
+#: admin/admin-map-multi-marker-option.php:288
+#: admin/admin-map-multi-marker.php:217 admin/admin-map-multi-marker.php:378
+msgid "Web link"
+msgstr "Webblänk"
+
+#: admin/admin-map-multi-marker-option.php:285
+#: admin/admin-map-multi-marker.php:210 admin/admin-map-multi-marker.php:369
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/admin-map-multi-marker-option.php:282
+#: admin/admin-map-multi-marker.php:203 admin/admin-map-multi-marker.php:360
+msgid "Address"
+msgstr "Adress"
+
+#: admin/admin-map-multi-marker-option.php:279
+#: admin/admin-map-multi-marker.php:196 admin/admin-map-multi-marker.php:351
+msgid "Description"
+msgstr "Beskrivning"
+
+#: admin/admin-map-multi-marker-option.php:276
+#: admin/admin-map-multi-marker.php:189 admin/admin-map-multi-marker.php:342
+msgid "Title"
+msgstr "Rubrik"
+
+#: admin/admin-map-multi-marker-option.php:273
+#: admin/admin-map-multi-marker.php:181
+msgid "Image"
+msgstr "Bild"
+
+#: admin/admin-map-multi-marker-option.php:182
+msgid "Initial longitude"
+msgstr "Initial longitud"
+
+#: admin/admin-map-multi-marker-option.php:170
+msgid "Initial latitude"
+msgstr "Initial latitud"
+
+#: admin/admin-map-multi-marker-option.php:193
+msgid "Map type"
+msgstr "Karttyp"
+
+#: admin/admin-map-multi-marker-option.php:137
+msgid "Width"
+msgstr "Bredd"
+
+#: admin/admin-map-multi-marker-option.php:116
+msgid "Height"
+msgstr "Höjd"
+
+#: admin/admin-map-multi-marker-option.php:105
+msgid "Map name"
+msgstr "Kartnamn"
+
+#: admin/admin-map-multi-marker-option.php:89
+msgid "Map option"
+msgstr "Kartalternativ"
+
+#: admin/admin-map-multi-marker-option.php:66
+msgid "Your options have been saved."
+msgstr "Dina alternativ har sparats."
+
+#: admin/admin-map-multi-marker-manage.php:159
+msgid "Create new map"
+msgstr "Skapa ny karta"
+
+#: admin/admin-map-multi-marker-manage.php:150
+#: admin/admin-map-multi-marker.php:304
+msgid "Delete"
+msgstr "Ta bort"
+
+#: admin/admin-map-multi-marker-manage.php:147
+#: admin/admin-map-multi-marker.php:301
+msgid "Edit"
+msgstr "Redigera"
+
+#: admin/admin-map-multi-marker-manage.php:82
+#: admin/admin-map-multi-marker-manage.php:144
+msgid "Copy"
+msgstr "Kopiera"
+
+#: admin/admin-map-multi-marker-manage.php:130
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: admin/admin-map-multi-marker-manage.php:129
+msgid "Map Name"
+msgstr "Kartnamn"
+
+#: admin/admin-map-multi-marker-manage.php:124
+msgid "Manage Map"
+msgstr "Hantera karta"
+
+#: admin/admin-map-multi-marker-manage.php:115
+msgid "Your map been deleted."
+msgstr "Din  karta har tagits bort. "
+
+#: admin/admin-map-multi-marker-manage.php:47
+msgid "Untitled map"
+msgstr "Namnlös karta"
+
+#: admin/admin-map-multi-marker-help.php:11
+msgid "To use the plugin simply insert your shortcode into post, page or widget."
+msgstr "För att använda tillägget, infoga helt enkelt kortkoden i ett inlägg, sida eller widget."
+
+#: admin/admin-map-multi-marker-help.php:7
+#: admin/admin-map-multi-marker-settings.php:63 inc/function.php:240
+msgid "Help"
+msgstr "Hjälp"
+
+#: admin/admin-map-multi-marker-settings.php:70
+msgid "Save"
+msgstr "Spara"
+
+#: admin/admin-map-multi-marker-settings.php:56
+msgid "Google API key"
+msgstr "Google API-nyckel"
+
+#: admin/admin-map-multi-marker-settings.php:51
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(Engelska = en), (Franska=fr), (Ryska=ru),…"
+
+#: admin/admin-map-multi-marker-option.php:71
+#: admin/admin-map-multi-marker-settings.php:30
+#: admin/admin-map-multi-marker.php:41 admin/admin-map-multi-marker.php:136
+msgid "Error in the form."
+msgstr "Fel i formuläret."
+
+#: admin/admin-map-multi-marker-settings.php:25
+msgid "Your changes have been saved."
+msgstr "Dina ändringar har sparats."

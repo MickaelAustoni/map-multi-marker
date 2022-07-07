@@ -1,0 +1,354 @@
+# Translation of Plugins - Map Multi Marker - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Map Multi Marker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-12 13:44:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Map Multi Marker - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "The easiest, useful and powerful google map plugin ! Easily create an unlimited number of google map and marker."
+msgstr "Το πιο εύκολο, χρήσιμο και δυνατό πρόσθετο για Google Maps! Δημιουργήστε εύκολα, απεριόριστους χάρτες και σημεία."
+
+#: inc/function.php:856
+msgid "to work properly."
+msgstr "για τη σωστή λειτουργία."
+
+#: inc/function.php:852
+msgid "on the setting page"
+msgstr "στις ρυθμίσεις"
+
+#: inc/function.php:850
+msgid "Now, before you start using Map Multi Marker, please note that it is necessary to register your API key"
+msgstr "Πριν αρχίσετε να χρησιμοποιείτε το Map Multi Marker, θυμηθείτε ότι είναι απαραίτητο να εγγράψετε το κλειδί API σας"
+
+#: inc/function.php:800
+msgid "Use this image"
+msgstr "Χρήση αυτής της εικόνας"
+
+#: inc/function.php:799
+msgid "Select a image to upload"
+msgstr "Επιλογή εικόνας για μεταφόρτωση"
+
+#: inc/function.php:264
+msgid "Required fields."
+msgstr "Τα πεδία είναι απαραίτητα."
+
+#: inc/function.php:263
+msgid "Please choose a file."
+msgstr "Παρακαλώ επιλέξτε ένα αρχείο."
+
+#: inc/function.php:239
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: inc/function.php:239
+msgid "Settings Map Multi Marker"
+msgstr "Ρυθμίσεις Map Multi Marker"
+
+#: admin/admin-map-multi-marker.php:165
+msgid "Import .csv"
+msgstr "Μεταφόρτωση .csv"
+
+#: admin/admin-map-multi-marker.php:35
+msgid "Error csv file upload."
+msgstr "Σφάλμα κατά τη μεταφόρτωση του CSV αρχείου."
+
+#: admin/admin-map-multi-marker.php:32
+msgid "Error SQL."
+msgstr "Σφάλμα SQL."
+
+#: admin/admin-map-multi-marker.php:30
+msgid "Please choose a valid file."
+msgstr "Παρακαλώ επιλέξτε ένα έγκυρο αρχείο."
+
+#: admin/admin-map-multi-marker.php:24
+msgid "Your csv file has been successfully downloaded."
+msgstr "Το αρχείο csv σας, έχει κατέβει επιτυχώς."
+
+#: admin/admin-map-multi-marker-settings.php:61
+msgid "Get a google API key"
+msgstr "Αποκτήστε το Google API κλειδί"
+
+#: admin/admin-map-multi-marker-settings.php:45
+msgid "Map language"
+msgstr "Γλώσσα Χάρτη"
+
+#: admin/admin-map-multi-marker-option.php:316
+msgid "Default marker icon when a new marker is created"
+msgstr "Προεπιλεγμένο εικονίδιο σημείου, όταν δημιουργείται νέο σημείο"
+
+#: admin/admin-map-multi-marker-option.php:309
+#: admin/admin-map-multi-marker-option.php:331
+msgid "Change image"
+msgstr "Αλλαγή εικόνας"
+
+#: admin/admin-map-multi-marker-option.php:294
+msgid "Default image tooltip when a new marker is created"
+msgstr "Προεπιλεγμένη εικόνα εργαλείου με τη δημιουργία νέου σημείου"
+
+#: admin/admin-map-multi-marker-option.php:225
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin/admin-map-multi-marker-manage.php:81
+msgid "Click to copy the shotcode"
+msgstr "Κάντε κλικ για να αντιγράψετε το Shortcode"
+
+#: admin/admin-map-multi-marker-manage.php:73
+msgid "Back"
+msgstr "Πίσω"
+
+#: admin/admin-map-multi-marker-help.php:19
+msgid "Example of CSV file separated by \";\"."
+msgstr "Κάντε εξαγωγή σε μορφή CSV, διαχωρισμένο με \";\""
+
+#: inc/function.php:706
+msgid "Donate"
+msgstr "Δωρεά"
+
+#: admin/admin-map-multi-marker-option.php:267
+msgid "Fields to display in tooltip"
+msgstr "Πεδία για προβοή στα εργαλεία"
+
+#: admin/admin-map-multi-marker-option.php:253
+msgid "Streetview"
+msgstr "Προβολή δρόμου"
+
+#: admin/admin-map-multi-marker-option.php:239
+msgid "Scrollwheel zoom"
+msgstr "Κύλιση για Μεγέθυνση"
+
+#: admin/admin-map-multi-marker-option.php:158
+msgid "Initial zoom"
+msgstr "Αρχικό Zoom"
+
+#. Author of the plugin/theme
+msgid "Mickael Austoni"
+msgstr "Mickael Austoni"
+
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://mickael.austoni.fr"
+msgstr "http://mickael.austoni.fr"
+
+#: inc/function.php:640
+msgid "Do you confirm the suppression of the marker ?"
+msgstr ""
+
+#: inc/function.php:623 inc/function.php:644
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: inc/function.php:621 inc/function.php:642
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: inc/function.php:619
+msgid "Do you confirm the suppression of the map ?"
+msgstr ""
+
+#: inc/function.php:603
+msgid "Your marker been created."
+msgstr "Το σημείο σας έχει δημιουργηθεί."
+
+#: inc/function.php:240
+msgid "Help Map Multi Marker"
+msgstr "Βοηθήστε το Map Multi Marker"
+
+#: admin/admin-map-multi-marker-settings.php:39
+msgid "Google API"
+msgstr "Google API"
+
+#. #-#-#-#-#  map-multi-marker-code.pot (Map Multi Marker 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/function.php:237
+msgid "Map Multi Marker"
+msgstr "Map Multi Marker"
+
+#: inc/function.php:104
+msgid "Constructed in 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France..."
+msgstr ""
+
+#: inc/function.php:103
+msgid "Eiffel Tower"
+msgstr "Πύργος του Άιφελ"
+
+#: inc/function.php:55
+msgid "Example map"
+msgstr "Παράδειγμα Χάρτη"
+
+#: admin/admin-map-multi-marker.php:391
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: admin/admin-map-multi-marker.php:223
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: admin/admin-map-multi-marker.php:222 admin/admin-map-multi-marker.php:387
+msgid "Longitude"
+msgstr "Γεωγραφικό μήκος"
+
+#: admin/admin-map-multi-marker.php:221 admin/admin-map-multi-marker.php:384
+msgid "Latitude"
+msgstr "Γεωγραφικό Πλάτος"
+
+#: admin/admin-map-multi-marker.php:176
+msgid "Marker"
+msgstr "Σημείο"
+
+#: admin/admin-map-multi-marker.php:155
+msgid "Management marker"
+msgstr ""
+
+#: admin/admin-map-multi-marker.php:128
+msgid "Your marker been edited."
+msgstr "Το σημείο σας, έχει επεξεργασθεί."
+
+#: admin/admin-map-multi-marker.php:77
+msgid "Your marker been deleted."
+msgstr "Το σημείο σας, έχει διαγραφεί."
+
+#: admin/admin-map-multi-marker-option.php:342
+msgid "Save options"
+msgstr "Αποθήκευση Επιλογών"
+
+#: admin/admin-map-multi-marker-option.php:288
+#: admin/admin-map-multi-marker.php:217 admin/admin-map-multi-marker.php:378
+msgid "Web link"
+msgstr "Διαδικτυακός Σύνδεσμος"
+
+#: admin/admin-map-multi-marker-option.php:285
+#: admin/admin-map-multi-marker.php:210 admin/admin-map-multi-marker.php:369
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: admin/admin-map-multi-marker-option.php:282
+#: admin/admin-map-multi-marker.php:203 admin/admin-map-multi-marker.php:360
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: admin/admin-map-multi-marker-option.php:279
+#: admin/admin-map-multi-marker.php:196 admin/admin-map-multi-marker.php:351
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: admin/admin-map-multi-marker-option.php:276
+#: admin/admin-map-multi-marker.php:189 admin/admin-map-multi-marker.php:342
+msgid "Title"
+msgstr "Τίτλος"
+
+#: admin/admin-map-multi-marker-option.php:273
+#: admin/admin-map-multi-marker.php:181
+msgid "Image"
+msgstr "Εικόνα"
+
+#: admin/admin-map-multi-marker-option.php:182
+msgid "Initial longitude"
+msgstr "Αρχικό Γεωγραφικό Μήκος"
+
+#: admin/admin-map-multi-marker-option.php:170
+msgid "Initial latitude"
+msgstr "Αρχικό Γεωγραφικό Πλάτος"
+
+#: admin/admin-map-multi-marker-option.php:193
+msgid "Map type"
+msgstr "Τύπος Χάρτη"
+
+#: admin/admin-map-multi-marker-option.php:137
+msgid "Width"
+msgstr "Πλάτος"
+
+#: admin/admin-map-multi-marker-option.php:116
+msgid "Height"
+msgstr "Ύψος"
+
+#: admin/admin-map-multi-marker-option.php:105
+msgid "Map name"
+msgstr "Όνομα Χάρτη"
+
+#: admin/admin-map-multi-marker-option.php:89
+msgid "Map option"
+msgstr "Επιλογές Χάρτη"
+
+#: admin/admin-map-multi-marker-option.php:66
+msgid "Your options have been saved."
+msgstr "Οι επιλογές σας, έχουν αποθηκευθεί."
+
+#: admin/admin-map-multi-marker-manage.php:159
+msgid "Create new map"
+msgstr "Δημιουργία νέου χάρτη"
+
+#: admin/admin-map-multi-marker-manage.php:150
+#: admin/admin-map-multi-marker.php:304
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: admin/admin-map-multi-marker-manage.php:147
+#: admin/admin-map-multi-marker.php:301
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: admin/admin-map-multi-marker-manage.php:82
+#: admin/admin-map-multi-marker-manage.php:144
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: admin/admin-map-multi-marker-manage.php:130
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/admin-map-multi-marker-manage.php:129
+msgid "Map Name"
+msgstr "Όνομα Χάρτη"
+
+#: admin/admin-map-multi-marker-manage.php:124
+msgid "Manage Map"
+msgstr ""
+
+#: admin/admin-map-multi-marker-manage.php:115
+msgid "Your map been deleted."
+msgstr "Ο χάρτης έχει διαγραφεί."
+
+#: admin/admin-map-multi-marker-manage.php:47
+msgid "Untitled map"
+msgstr "Ανώνυμος Χάρτης"
+
+#: admin/admin-map-multi-marker-help.php:11
+msgid "To use the plugin simply insert your shortcode into post, page or widget."
+msgstr "Για να χρησιμοποιήσετε αυτό το Πρόσθετο, απλά εισάγετε το σύντομο κωδικό (Shortcode) μέσα σε ένα Άρθρο, Σελίδα ή Μικροεφαρμογή"
+
+#: admin/admin-map-multi-marker-help.php:7
+#: admin/admin-map-multi-marker-settings.php:63 inc/function.php:240
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: admin/admin-map-multi-marker-settings.php:70
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: admin/admin-map-multi-marker-settings.php:56
+msgid "Google API key"
+msgstr "Κλειδί Google API"
+
+#: admin/admin-map-multi-marker-settings.php:51
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(English = en) , (French=fr) , (Russian=ru) , ..."
+
+#: admin/admin-map-multi-marker-option.php:71
+#: admin/admin-map-multi-marker-settings.php:30
+#: admin/admin-map-multi-marker.php:41 admin/admin-map-multi-marker.php:136
+msgid "Error in the form."
+msgstr "Σφάλμα στη φόρμα"
+
+#: admin/admin-map-multi-marker-settings.php:25
+msgid "Your changes have been saved."
+msgstr "Οι αλλαγές σας έχουν αποθηκευθεί."

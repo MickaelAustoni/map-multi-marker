@@ -1,0 +1,354 @@
+# Translation of Plugins - Map Multi Marker - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Map Multi Marker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-11 19:24+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Map Multi Marker - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the plugin/theme
+msgid "The easiest, useful and powerful google map plugin ! Easily create an unlimited number of google map and marker."
+msgstr "とても簡単で便利で強力な Google マッププラグイン ! 簡単に Google マップとマーカーを無制限に作成します。"
+
+#: inc/function.php:856
+msgid "to work properly."
+msgstr "適切に動くようにします。"
+
+#: inc/function.php:852
+msgid "on the setting page"
+msgstr "設定ページ上で"
+
+#: inc/function.php:850
+msgid "Now, before you start using Map Multi Marker, please note that it is necessary to register your API key"
+msgstr "Map Multi Marker を使用する前に、API キーを登録する必要があります"
+
+#: inc/function.php:800
+msgid "Use this image"
+msgstr "この画像を使う"
+
+#: inc/function.php:799
+msgid "Select a image to upload"
+msgstr "アップロードする画像を選択"
+
+#: inc/function.php:264
+msgid "Required fields."
+msgstr "必須フィールド"
+
+#: inc/function.php:263
+msgid "Please choose a file."
+msgstr "ファイルを選んでください。"
+
+#: inc/function.php:239
+msgid "Settings"
+msgstr "設定"
+
+#: inc/function.php:239
+msgid "Settings Map Multi Marker"
+msgstr "Map Multi Marker 設定"
+
+#: admin/admin-map-multi-marker.php:165
+msgid "Import .csv"
+msgstr "CSV をインポートする"
+
+#: admin/admin-map-multi-marker.php:35
+msgid "Error csv file upload."
+msgstr "CSV ファイルのアップロードエラー"
+
+#: admin/admin-map-multi-marker.php:32
+msgid "Error SQL."
+msgstr "SQL エラー"
+
+#: admin/admin-map-multi-marker.php:30
+msgid "Please choose a valid file."
+msgstr "有効なファイルを選択してください。"
+
+#: admin/admin-map-multi-marker.php:24
+msgid "Your csv file has been successfully downloaded."
+msgstr "CSV ファイルは正常にダウンロードされました。"
+
+#: admin/admin-map-multi-marker-settings.php:61
+msgid "Get a google API key"
+msgstr "Google API キーを取得する"
+
+#: admin/admin-map-multi-marker-settings.php:45
+msgid "Map language"
+msgstr "地図使用言語"
+
+#: admin/admin-map-multi-marker-option.php:316
+msgid "Default marker icon when a new marker is created"
+msgstr "新しいマーカーが作成されたときのデフォルトマーカーアイコン"
+
+#: admin/admin-map-multi-marker-option.php:309
+#: admin/admin-map-multi-marker-option.php:331
+msgid "Change image"
+msgstr "画像の変更"
+
+#: admin/admin-map-multi-marker-option.php:294
+msgid "Default image tooltip when a new marker is created"
+msgstr "新しいマーカーが作成されたときのデフォルト画像のツールチップ"
+
+#: admin/admin-map-multi-marker-option.php:225
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin/admin-map-multi-marker-manage.php:81
+msgid "Click to copy the shotcode"
+msgstr "ショートコードをコピー"
+
+#: admin/admin-map-multi-marker-manage.php:73
+msgid "Back"
+msgstr "戻る"
+
+#: admin/admin-map-multi-marker-help.php:19
+msgid "Example of CSV file separated by \";\"."
+msgstr "\";\" で区切られた CSV ファイルの例。"
+
+#: inc/function.php:706
+msgid "Donate"
+msgstr "寄付する"
+
+#: admin/admin-map-multi-marker-option.php:267
+msgid "Fields to display in tooltip"
+msgstr "ツールチップに表示するフィールド"
+
+#: admin/admin-map-multi-marker-option.php:253
+msgid "Streetview"
+msgstr "ストリートビュー"
+
+#: admin/admin-map-multi-marker-option.php:239
+msgid "Scrollwheel zoom"
+msgstr "スクロールで拡大"
+
+#: admin/admin-map-multi-marker-option.php:158
+msgid "Initial zoom"
+msgstr "初期拡大"
+
+#. Author of the plugin/theme
+msgid "Mickael Austoni"
+msgstr "Mickael Austoni"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mickael.austoni.fr"
+msgstr "http://mickael.austoni.fr"
+
+#: inc/function.php:640
+msgid "Do you confirm the suppression of the marker ?"
+msgstr "マーカーの抑制を確認しますか ?"
+
+#: inc/function.php:623 inc/function.php:644
+msgid "Confirm"
+msgstr "確認する"
+
+#: inc/function.php:621 inc/function.php:642
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: inc/function.php:619
+msgid "Do you confirm the suppression of the map ?"
+msgstr "地図の抑制を確認しますか ?"
+
+#: inc/function.php:603
+msgid "Your marker been created."
+msgstr "マーカーが作成されました。"
+
+#: inc/function.php:240
+msgid "Help Map Multi Marker"
+msgstr "Map Multi Marker のヘルプ"
+
+#: admin/admin-map-multi-marker-settings.php:39
+msgid "Google API"
+msgstr "Google API"
+
+#. Plugin Name of the plugin/theme
+#: inc/function.php:237
+msgid "Map Multi Marker"
+msgstr "Map Multi Marker"
+
+#: inc/function.php:104
+msgid "Constructed in 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France..."
+msgstr "1889年の世界博覧会の入り口として同年に建設された当初、フランスの有名な芸術家や知識人によって批判されていましたが、現在ではフランスを象徴するアイコンとなっています..."
+
+#: inc/function.php:103
+msgid "Eiffel Tower"
+msgstr "エッフェル塔"
+
+#: inc/function.php:55
+msgid "Example map"
+msgstr "地図の例"
+
+#: admin/admin-map-multi-marker.php:391
+msgid "Add"
+msgstr "追加"
+
+#: admin/admin-map-multi-marker.php:223
+msgid "Action"
+msgstr "動作"
+
+#: admin/admin-map-multi-marker.php:222 admin/admin-map-multi-marker.php:387
+msgid "Longitude"
+msgstr "経度"
+
+#: admin/admin-map-multi-marker.php:221 admin/admin-map-multi-marker.php:384
+msgid "Latitude"
+msgstr "緯度"
+
+#: admin/admin-map-multi-marker.php:176
+msgid "Marker"
+msgstr "マーカー"
+
+#: admin/admin-map-multi-marker.php:155
+msgid "Management marker"
+msgstr "マーカー管理"
+
+#: admin/admin-map-multi-marker.php:128
+msgid "Your marker been edited."
+msgstr "マーカーが編集されました。"
+
+#: admin/admin-map-multi-marker.php:77
+msgid "Your marker been deleted."
+msgstr "マーカーが削除されました。"
+
+#: admin/admin-map-multi-marker-option.php:342
+msgid "Save options"
+msgstr "設定の保存"
+
+#: admin/admin-map-multi-marker-option.php:288
+#: admin/admin-map-multi-marker.php:217 admin/admin-map-multi-marker.php:378
+msgid "Web link"
+msgstr "URL"
+
+#: admin/admin-map-multi-marker-option.php:285
+#: admin/admin-map-multi-marker.php:210 admin/admin-map-multi-marker.php:369
+msgid "Phone"
+msgstr "電話番号"
+
+#: admin/admin-map-multi-marker-option.php:282
+#: admin/admin-map-multi-marker.php:203 admin/admin-map-multi-marker.php:360
+msgid "Address"
+msgstr "住所"
+
+#: admin/admin-map-multi-marker-option.php:279
+#: admin/admin-map-multi-marker.php:196 admin/admin-map-multi-marker.php:351
+msgid "Description"
+msgstr "説明"
+
+#: admin/admin-map-multi-marker-option.php:276
+#: admin/admin-map-multi-marker.php:189 admin/admin-map-multi-marker.php:342
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/admin-map-multi-marker-option.php:273
+#: admin/admin-map-multi-marker.php:181
+msgid "Image"
+msgstr "画像"
+
+#: admin/admin-map-multi-marker-option.php:182
+msgid "Initial longitude"
+msgstr "初期経度"
+
+#: admin/admin-map-multi-marker-option.php:170
+msgid "Initial latitude"
+msgstr "初期緯度"
+
+#: admin/admin-map-multi-marker-option.php:193
+msgid "Map type"
+msgstr "地図の種類"
+
+#: admin/admin-map-multi-marker-option.php:137
+msgid "Width"
+msgstr "幅"
+
+#: admin/admin-map-multi-marker-option.php:116
+msgid "Height"
+msgstr "高さ"
+
+#: admin/admin-map-multi-marker-option.php:105
+msgid "Map name"
+msgstr "地図の名前"
+
+#: admin/admin-map-multi-marker-option.php:89
+msgid "Map option"
+msgstr "地図設定"
+
+#: admin/admin-map-multi-marker-option.php:66
+msgid "Your options have been saved."
+msgstr "設定を保存しました。"
+
+#: admin/admin-map-multi-marker-manage.php:159
+msgid "Create new map"
+msgstr "新しい地図を作る"
+
+#: admin/admin-map-multi-marker-manage.php:150
+#: admin/admin-map-multi-marker.php:304
+msgid "Delete"
+msgstr "削除"
+
+#: admin/admin-map-multi-marker-manage.php:147
+#: admin/admin-map-multi-marker.php:301
+msgid "Edit"
+msgstr "編集"
+
+#: admin/admin-map-multi-marker-manage.php:82
+#: admin/admin-map-multi-marker-manage.php:144
+msgid "Copy"
+msgstr "コピー"
+
+#: admin/admin-map-multi-marker-manage.php:130
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/admin-map-multi-marker-manage.php:129
+msgid "Map Name"
+msgstr "地図名"
+
+#: admin/admin-map-multi-marker-manage.php:124
+msgid "Manage Map"
+msgstr "地図管理"
+
+#: admin/admin-map-multi-marker-manage.php:115
+msgid "Your map been deleted."
+msgstr "あなたの地図は削除されました。"
+
+#: admin/admin-map-multi-marker-manage.php:47
+msgid "Untitled map"
+msgstr "無題の地図"
+
+#: admin/admin-map-multi-marker-help.php:11
+msgid "To use the plugin simply insert your shortcode into post, page or widget."
+msgstr "プラグインを使用するには、ショートコードを投稿ページ、固定ページ、またはウィジェットに挿入するだけです。"
+
+#: admin/admin-map-multi-marker-help.php:7
+#: admin/admin-map-multi-marker-settings.php:63 inc/function.php:240
+msgid "Help"
+msgstr "ヘルプ"
+
+#: admin/admin-map-multi-marker-settings.php:70
+msgid "Save"
+msgstr "保存"
+
+#: admin/admin-map-multi-marker-settings.php:56
+msgid "Google API key"
+msgstr "Google API キー"
+
+#: admin/admin-map-multi-marker-settings.php:51
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(英語 = en)、(フランス語 = fr)、(ロシア語 = ru)、…"
+
+#: admin/admin-map-multi-marker-option.php:71
+#: admin/admin-map-multi-marker-settings.php:30
+#: admin/admin-map-multi-marker.php:41 admin/admin-map-multi-marker.php:136
+msgid "Error in the form."
+msgstr "フォームにエラーがあります。"
+
+#: admin/admin-map-multi-marker-settings.php:25
+msgid "Your changes have been saved."
+msgstr "変更を保存しました。"

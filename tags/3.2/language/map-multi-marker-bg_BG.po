@@ -1,0 +1,296 @@
+# Translation of Plugins - Map Multi Marker - Development (trunk) in Bulgarian
+# This file is distributed under the same license as the Plugins - Map Multi Marker - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-13 04:07+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: bg\n"
+"Project-Id-Version: Plugins - Map Multi Marker - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: admin/admin-map-multi-marker-google-api.php:57
+msgid "Get your own key"
+msgstr "Вземи свой ключ"
+
+#: admin/admin-map-multi-marker-google-api.php:44
+msgid "Map language"
+msgstr "Език на картата"
+
+#: admin/admin-map-multi-marker-option.php:207
+msgid "Default marker icon when a new marker is created"
+msgstr "Икона по подразбиране за нов маркер"
+
+#: admin/admin-map-multi-marker-option.php:202
+#: admin/admin-map-multi-marker-option.php:212
+msgid "Change image"
+msgstr "Промени изображението"
+
+#: admin/admin-map-multi-marker-option.php:196
+msgid "Default image tooltip when a new marker is created"
+msgstr "Изображение по подразбиране в балончето на новосъздадения маркер"
+
+#: inc/function.php:715
+msgid "Use this image"
+msgstr "Използвай това изображение"
+
+#: inc/function.php:714
+msgid "Select a image to upload"
+msgstr "Избиране на изображение за качване"
+
+#: inc/function.php:629
+msgid "Donate"
+msgstr "Дарание"
+
+#: admin/admin-map-multi-marker-option.php:184
+msgid "Fields to display in tooltip"
+msgstr "Полета, които да се показват в балончето"
+
+#: admin/admin-map-multi-marker-option.php:176
+msgid "Streetview"
+msgstr "Streetview"
+
+#: admin/admin-map-multi-marker-option.php:168
+msgid "Scrollwheel zoom"
+msgstr "Доближаване със скролиране"
+
+#: admin/admin-map-multi-marker-option.php:131
+msgid "Initial zoom"
+msgstr "Първоначално приближение"
+
+#: admin/admin-map-multi-marker-manage.php:111
+msgid "Create new map"
+msgstr "Създаване на нова карта"
+
+#: admin/admin-map-multi-marker-manage.php:100
+msgid "Copy"
+msgstr "Копирай"
+
+#: admin/admin-map-multi-marker-manage.php:89
+msgid "Shortcode"
+msgstr "Код"
+
+#: admin/admin-map-multi-marker-manage.php:88
+msgid "Map Name"
+msgstr "Име на картата"
+
+#: admin/admin-map-multi-marker-manage.php:83
+msgid "Manage Map"
+msgstr "Управление на картата"
+
+#: admin/admin-map-multi-marker-manage.php:74
+msgid "Your map been deleted."
+msgstr "Вашата карта е изтрита"
+
+#: admin/admin-map-multi-marker-manage.php:26
+msgid "Untitled map"
+msgstr "Неозаглавена карта"
+
+#. Author of the plugin/theme
+msgid "Mickael Austoni"
+msgstr "Mickael Austoni"
+
+#. Description of the plugin/theme
+msgid "Easily create multiple markers on a google map !"
+msgstr "Създаване на множество маркери върху Google map"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mickael.austoni.fr"
+msgstr "http://mickael.austoni.fr"
+
+#: inc/function.php:566
+msgid "Do you confirm the suppression of the marker ?"
+msgstr "Потвърждавате ли че не искате този маркер да се показва"
+
+#: inc/function.php:551 inc/function.php:568
+msgid "Confirm"
+msgstr "Потвърждавам"
+
+#: inc/function.php:550 inc/function.php:567
+msgid "Cancel"
+msgstr "Отказ"
+
+#: inc/function.php:549
+msgid "Do you confirm the suppression of the map ?"
+msgstr "Потвърждавате ли че не искате тази карта да се показва"
+
+#: inc/function.php:535
+msgid "Your marker been created."
+msgstr "Вашият маркер беше създаден."
+
+#: inc/function.php:208
+msgid "Help Map Multi Marker"
+msgstr "Помогнете на Map Multi Marker"
+
+#: inc/function.php:207
+msgid "Google API"
+msgstr "Google API"
+
+#: inc/function.php:207
+msgid "Google API Map Multi Marker"
+msgstr "Google API Map Multi Marker"
+
+#. Plugin Name of the plugin/theme
+#: inc/function.php:205
+msgid "Map Multi Marker"
+msgstr "Map Multi Marker"
+
+#: inc/function.php:100
+msgid "Constructed in 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France..."
+msgstr "Констуирана през 1889 като вход на Световното изложение, в началото неиният дисайн е бил критикуван от някои френски артисти и интелектуалци, но след това се е превърнала в културна икона на Франция"
+
+#: inc/function.php:99
+msgid "Eiffel Tower"
+msgstr "Айфеловата кула"
+
+#: inc/function.php:53
+msgid "Example map"
+msgstr "Примерна карта"
+
+#: admin/admin-map-multi-marker.php:319
+msgid "Add"
+msgstr "Добавяне"
+
+#: admin/admin-map-multi-marker-manage.php:104
+#: admin/admin-map-multi-marker.php:248
+msgid "Delete"
+msgstr "Изтриване"
+
+#: admin/admin-map-multi-marker-manage.php:103
+#: admin/admin-map-multi-marker.php:247
+msgid "Edit"
+msgstr "Редактиране"
+
+#: admin/admin-map-multi-marker.php:170
+msgid "Action"
+msgstr "Действие"
+
+#: admin/admin-map-multi-marker.php:169 admin/admin-map-multi-marker.php:317
+msgid "Longitude"
+msgstr "географска дължина"
+
+#: admin/admin-map-multi-marker.php:168 admin/admin-map-multi-marker.php:316
+msgid "Latitude"
+msgstr "географска ширина"
+
+#: admin/admin-map-multi-marker.php:124
+msgid "Marker"
+msgstr "Маркер"
+
+#: admin/admin-map-multi-marker.php:113
+msgid "Management marker"
+msgstr "Управление на маркер"
+
+#: admin/admin-map-multi-marker.php:86
+msgid "Your marker been edited."
+msgstr "Вашият маркер беше редактиран"
+
+#: admin/admin-map-multi-marker.php:39
+msgid "Your marker been deleted."
+msgstr "Вашият маркер беше изтрит"
+
+#: admin/admin-map-multi-marker-option.php:222
+msgid "Save options"
+msgstr "Запази настроиките"
+
+#: admin/admin-map-multi-marker-option.php:191
+#: admin/admin-map-multi-marker.php:164 admin/admin-map-multi-marker.php:312
+msgid "Web link"
+msgstr "Интернет връзка"
+
+#: admin/admin-map-multi-marker-option.php:190
+#: admin/admin-map-multi-marker.php:157 admin/admin-map-multi-marker.php:305
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/admin-map-multi-marker-option.php:189
+#: admin/admin-map-multi-marker.php:150 admin/admin-map-multi-marker.php:298
+msgid "Address"
+msgstr "Адрес"
+
+#: admin/admin-map-multi-marker-option.php:188
+#: admin/admin-map-multi-marker.php:143 admin/admin-map-multi-marker.php:291
+msgid "Description"
+msgstr "Описание"
+
+#: admin/admin-map-multi-marker-option.php:187
+#: admin/admin-map-multi-marker.php:136 admin/admin-map-multi-marker.php:284
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/admin-map-multi-marker-option.php:186
+#: admin/admin-map-multi-marker.php:129
+msgid "Image"
+msgstr "Изображение"
+
+#: admin/admin-map-multi-marker-option.php:145
+msgid "Initial longitude"
+msgstr "Първоначалнa географска дължина"
+
+#: admin/admin-map-multi-marker-option.php:138
+msgid "Initial latitude"
+msgstr "Първоначалнa географска ширина"
+
+#: admin/admin-map-multi-marker-option.php:152
+msgid "Map type"
+msgstr "Тип карта"
+
+#: admin/admin-map-multi-marker-option.php:119
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/admin-map-multi-marker-option.php:107
+msgid "Height"
+msgstr "Височина"
+
+#: admin/admin-map-multi-marker-option.php:99
+msgid "Map name"
+msgstr "Име на картата"
+
+#: admin/admin-map-multi-marker-option.php:85
+msgid "Map option"
+msgstr "Опция на карата"
+
+#: admin/admin-map-multi-marker-option.php:63
+msgid "Your options have been saved."
+msgstr "Вашите опции бяха запаметени."
+
+#: admin/admin-map-multi-marker-help.php:15
+msgid "To use the plugin simply insert your shortcode into post or page."
+msgstr "За да използвате приставката просто поставете кода в пост или страница."
+
+#: admin/admin-map-multi-marker-help.php:8 inc/function.php:208
+msgid "Help"
+msgstr "Помощ"
+
+#: admin/admin-map-multi-marker-google-api.php:63
+msgid "Save"
+msgstr "Запамети"
+
+#: admin/admin-map-multi-marker-google-api.php:53
+msgid "Google API key"
+msgstr "Google API key"
+
+#: admin/admin-map-multi-marker-google-api.php:48
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(English = en) , (French=fr) , (Russian=ru) , ..."
+
+#: admin/admin-map-multi-marker-google-api.php:38
+msgid "Google API "
+msgstr "Google API "
+
+#: admin/admin-map-multi-marker-google-api.php:30
+#: admin/admin-map-multi-marker-option.php:68
+#: admin/admin-map-multi-marker.php:94
+msgid "Error in the form."
+msgstr "Грепка във формата"
+
+#: admin/admin-map-multi-marker-google-api.php:25
+msgid "Your changes have been saved."
+msgstr "Вашите промени бяха запазени."

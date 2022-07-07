@@ -1,0 +1,449 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Map Marker\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-03-18 12:13+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mibiki <mik257@hotmail.fr>\n"
+"Language-Team: Mickael Austoni - AM <mik257@hotmail.fr>\n"
+"Language: fr_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-map-multi-marker-help.php:7 inc/function.php:240
+msgid "Help"
+msgstr "Aide"
+
+#: admin/admin-map-multi-marker-help.php:11
+msgid ""
+"To use the plugin simply insert your shortcode into post, page or widget."
+msgstr ""
+"Pour utiliser le plugin il suffi d'insérer votre shortcode dans un article, "
+"une page ou un widget."
+
+#: admin/admin-map-multi-marker-help.php:19
+msgid "Example of CSV file separated by \";\"."
+msgstr "Exemple de fichier CSV séparé par \";\"."
+
+#: admin/admin-map-multi-marker-manage.php:47
+msgid "Untitled map"
+msgstr "Carte sans titre"
+
+#: admin/admin-map-multi-marker-manage.php:71
+msgid "Back"
+msgstr "Retour"
+
+#: admin/admin-map-multi-marker-manage.php:76
+msgid "Click to copy the shotcode"
+msgstr "Cliquez pour copier le  shortcode"
+
+#: admin/admin-map-multi-marker-manage.php:106
+msgid "Your map been deleted."
+msgstr "Votre carte à bien été supprimé."
+
+#: admin/admin-map-multi-marker-manage.php:115
+msgid "Manage Map"
+msgstr "Gestion de carte"
+
+#: admin/admin-map-multi-marker-manage.php:120
+msgid "Map Name"
+msgstr "Nom de la carte"
+
+#: admin/admin-map-multi-marker-manage.php:121
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/admin-map-multi-marker-manage.php:135
+msgid "Copy"
+msgstr "Copier"
+
+#: admin/admin-map-multi-marker-manage.php:140
+#: admin/admin-map-multi-marker.php:298
+msgid "Edit"
+msgstr "Editer"
+
+#: admin/admin-map-multi-marker-manage.php:143
+#: admin/admin-map-multi-marker.php:299
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/admin-map-multi-marker-manage.php:153
+msgid "Create new map"
+msgstr "Crée une nouvelle carte"
+
+#: admin/admin-map-multi-marker-option.php:66
+msgid "Your options have been saved."
+msgstr "Vos options on bien été enregistrés."
+
+#: admin/admin-map-multi-marker-option.php:71
+#: admin/admin-map-multi-marker-settings.php:30
+#: admin/admin-map-multi-marker.php:43 admin/admin-map-multi-marker.php:137
+msgid "Error in the form."
+msgstr "Erreur dans le formulaire"
+
+#: admin/admin-map-multi-marker-option.php:89
+msgid "Map option"
+msgstr "Options de la carte"
+
+#: admin/admin-map-multi-marker-option.php:105
+msgid "Map name"
+msgstr "Nom de la carte"
+
+#: admin/admin-map-multi-marker-option.php:116
+msgid "Height"
+msgstr "Hauteur"
+
+#: admin/admin-map-multi-marker-option.php:137
+msgid "Width"
+msgstr "Largeur"
+
+#: admin/admin-map-multi-marker-option.php:158
+msgid "Initial zoom"
+msgstr "Zoom initiale"
+
+#: admin/admin-map-multi-marker-option.php:170
+msgid "Initial latitude"
+msgstr "Latitude Initial"
+
+#: admin/admin-map-multi-marker-option.php:182
+msgid "Initial longitude"
+msgstr "Longitude initial"
+
+#: admin/admin-map-multi-marker-option.php:193
+msgid "Map type"
+msgstr "Type de carte"
+
+#: admin/admin-map-multi-marker-option.php:225
+msgid "Lightbox"
+msgstr "Visionneuse"
+
+#: admin/admin-map-multi-marker-option.php:239
+msgid "Scrollwheel zoom"
+msgstr "Zoom à la molette"
+
+#: admin/admin-map-multi-marker-option.php:253
+msgid "Streetview"
+msgstr "Streetview"
+
+#: admin/admin-map-multi-marker-option.php:267
+msgid "Fields to display in tooltip"
+msgstr "Champs à afficher dans l’infobulle"
+
+#: admin/admin-map-multi-marker-option.php:273
+#: admin/admin-map-multi-marker.php:180
+msgid "Image"
+msgstr "Image"
+
+#: admin/admin-map-multi-marker-option.php:276
+#: admin/admin-map-multi-marker.php:187 admin/admin-map-multi-marker.php:335
+msgid "Title"
+msgstr "Titre"
+
+#: admin/admin-map-multi-marker-option.php:279
+#: admin/admin-map-multi-marker.php:194 admin/admin-map-multi-marker.php:342
+msgid "Description"
+msgstr "Description"
+
+#: admin/admin-map-multi-marker-option.php:282
+#: admin/admin-map-multi-marker.php:201 admin/admin-map-multi-marker.php:349
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/admin-map-multi-marker-option.php:285
+#: admin/admin-map-multi-marker.php:208 admin/admin-map-multi-marker.php:356
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/admin-map-multi-marker-option.php:288
+#: admin/admin-map-multi-marker.php:215 admin/admin-map-multi-marker.php:363
+msgid "Web link"
+msgstr "Lien web"
+
+#: admin/admin-map-multi-marker-option.php:294
+msgid "Default image tooltip when a new marker is created"
+msgstr "Image de l’infobulle par défaut quand un nouveau marqueur est crée"
+
+#: admin/admin-map-multi-marker-option.php:309
+#: admin/admin-map-multi-marker-option.php:331
+msgid "Change image"
+msgstr "Changer l’image"
+
+#: admin/admin-map-multi-marker-option.php:316
+msgid "Default marker icon when a new marker is created"
+msgstr "Marqueur par défaut quand un nouveau marqueur est crée"
+
+#: admin/admin-map-multi-marker-option.php:342
+msgid "Save options"
+msgstr "Enregistrer les options"
+
+#: admin/admin-map-multi-marker-settings.php:25
+msgid "Your changes have been saved."
+msgstr "Vos modifications on bien été enregistrés."
+
+#: admin/admin-map-multi-marker-settings.php:39
+msgid "Google API"
+msgstr "Google API"
+
+#: admin/admin-map-multi-marker-settings.php:45
+msgid "Map language"
+msgstr "Langue de la carte"
+
+#: admin/admin-map-multi-marker-settings.php:51
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(Anglais = en) , (Français=fr) , (Russe=ru) , ..."
+
+#: admin/admin-map-multi-marker-settings.php:56
+msgid "Google API key"
+msgstr "Clé API Google"
+
+#: admin/admin-map-multi-marker-settings.php:61
+msgid "Get a google API key"
+msgstr "Obtenir une clé API google"
+
+#: admin/admin-map-multi-marker-settings.php:69
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/admin-map-multi-marker.php:24
+msgid "Your csv file has been successfully downloaded."
+msgstr "Votre fichier csv a été téléchargé avec succès."
+
+#: admin/admin-map-multi-marker.php:30
+msgid "Please choose a valid file."
+msgstr "Veuillez choisir un fichier valide."
+
+#: admin/admin-map-multi-marker.php:33
+msgid "Error SQL."
+msgstr "Erreur SQL."
+
+#: admin/admin-map-multi-marker.php:37
+msgid "Error csv file upload."
+msgstr "Erreur lors du téléchargement du fichier csv."
+
+#: admin/admin-map-multi-marker.php:78
+msgid "Your marker been deleted."
+msgstr "Votre markeur à bien été supprimé."
+
+#: admin/admin-map-multi-marker.php:129
+msgid "Your marker been edited."
+msgstr "Votre marqueur à bien été édité."
+
+#: admin/admin-map-multi-marker.php:156
+msgid "Management marker"
+msgstr "Gestion des marqueurs"
+
+#: admin/admin-map-multi-marker.php:165
+msgid "Import .csv"
+msgstr "Importer .csv"
+
+#: admin/admin-map-multi-marker.php:175
+msgid "Marker"
+msgstr "Marqueur"
+
+#: admin/admin-map-multi-marker.php:219 admin/admin-map-multi-marker.php:367
+msgid "Latitude"
+msgstr "Latitude"
+
+#: admin/admin-map-multi-marker.php:220 admin/admin-map-multi-marker.php:368
+msgid "Longitude"
+msgstr "Longitude"
+
+#: admin/admin-map-multi-marker.php:221
+msgid "Action"
+msgstr "Action"
+
+#: admin/admin-map-multi-marker.php:370
+msgid "Add"
+msgstr "Ajouter"
+
+#: inc/function.php:55
+msgid "Example map"
+msgstr "Carte d'exemple"
+
+#: inc/function.php:103
+msgid "Eiffel Tower"
+msgstr "Tour Eiffel"
+
+#: inc/function.php:104
+msgid ""
+"Constructed in 1889 as the entrance to the 1889 World's Fair, it was "
+"initially criticized by some of France's leading artists and intellectuals "
+"for its design, but it has become a global cultural icon of France..."
+msgstr ""
+"Construite par Gustave Eiffel et ses collaborateurs pour l’Exposition "
+"universelle de Paris de 1889, et initialement nommée « tour de 300 mètres », "
+"ce monument est devenu le symbole de la capitale française..."
+
+#: inc/function.php:237
+msgid "Map Multi Marker"
+msgstr "Map Multi Marker"
+
+#: inc/function.php:239
+msgid "Settings Map Multi Marker"
+msgstr "Paramètres Map Multi Marker"
+
+#: inc/function.php:239
+msgid "Settings"
+msgstr "Paramètres"
+
+#: inc/function.php:240
+msgid "Help Map Multi Marker"
+msgstr "Aide Map Multi Marker"
+
+#: inc/function.php:263
+msgid "Please choose a file."
+msgstr "Veuillez choisir un fichier."
+
+#: inc/function.php:264
+msgid "Required fields."
+msgstr "Champs obligatoires."
+
+#: inc/function.php:617
+msgid "Your marker been created."
+msgstr "Votre markeur à bien été crée."
+
+#: inc/function.php:633
+msgid "Do you confirm the suppression of the map ?"
+msgstr "Confirmez-vous la suppression de la carte?"
+
+#: inc/function.php:635 inc/function.php:656
+msgid "Cancel"
+msgstr "Annuler"
+
+#: inc/function.php:637 inc/function.php:658
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: inc/function.php:654
+msgid "Do you confirm the suppression of the marker ?"
+msgstr "Confirmez-vous la suppression du marqueur?"
+
+#: inc/function.php:720
+msgid "Donate"
+msgstr "Faire un don"
+
+#: inc/function.php:809
+msgid "Select a image to upload"
+msgstr "Sélectionnez une image à télécharger"
+
+#: inc/function.php:810
+msgid "Use this image"
+msgstr "Utilisez cette image"
+
+#: inc/function.php:859
+msgid ""
+"Now, before you start using Map Multi Marker, please note that it is "
+"necessary to register your API key"
+msgstr ""
+"Maintenant, avant de commencer à utiliser Map Multi Marker, veuillez noter "
+"qu'il est nécessaire d'enregistrer votre clé API"
+
+#: inc/function.php:861
+msgid "on the setting page"
+msgstr "sur la page paramètres"
+
+#: inc/function.php:865
+msgid "to work properly."
+msgstr "pour fonctionner correctement."
+
+#~ msgid "Get your own key"
+#~ msgstr "Obtenez votre propre clé"
+
+#~ msgid "Click to copy the shortcode "
+#~ msgstr "Cliquez pour copier le  shortcode"
+
+#~ msgid "Example CSV file."
+#~ msgstr "Exemple de fichier CSV."
+
+#~ msgid "Your file is empty."
+#~ msgstr "Votre fichier est vide."
+
+#~ msgid "To use the plugin simply insert your shortcode into post or page."
+#~ msgstr ""
+#~ "Pour utiliser le plugin il suffi d'insérer votre shortcode dans un "
+#~ "article ou une page."
+
+#~ msgid "Google API "
+#~ msgstr "Google API"
+
+#~ msgid "Google API Map Multi Marker"
+#~ msgstr "Google API Map Multi Marker"
+
+#~ msgid "Default image tooltip when marker is created"
+#~ msgstr "Image de l’infobulle par défaut quand un marqueur est crée"
+
+#~ msgid "Default marker icon when marker is created"
+#~ msgstr "Marqueur par défaut quand un marqueur est crée"
+
+#~ msgid "Language"
+#~ msgstr "Langue"
+
+#~ msgid "Get a Key"
+#~ msgstr "Obtenir une clé"
+
+#~ msgid "Default image tooltip"
+#~ msgstr "Image par défaut dans l’infobulle"
+
+#~ msgid "Default marker icon"
+#~ msgstr "Image par défaut des marqueurs"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Fields to display"
+#~ msgstr "Champs à afficher"
+
+#~ msgid "To use the plugin simply insert the shortcode"
+#~ msgstr "Pour utiliser le plugin il suffi d'insérer le shortcode"
+
+#~ msgid "into post or page."
+#~ msgstr "dans un article ou une page."
+
+#~ msgid "Click to copy the shortcode"
+#~ msgstr "Cliquer pour copier le shortcode"
+
+#~ msgid "Options Map Multi Marker"
+#~ msgstr "Options de carte Map Multi Marker"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Manage Map Multi Marker"
+#~ msgstr "Manage Map Multi Marker"
+
+#~ msgid "Manage"
+#~ msgstr "Gérer"
+
+#~ msgid "Map Marker Options"
+#~ msgstr "Options de Map Marker"
+
+#~ msgid "Google API Map Marker"
+#~ msgstr "Google API Map Marker"
+
+#~ msgid "Help Map Marker"
+#~ msgstr "Aide Map Marker"
+
+#~ msgid "Save option"
+#~ msgstr "Enregistrer les options"
+
+#~ msgid "(english = en) , (french=fr) , (russian=ru) , ..."
+#~ msgstr "(Anglais = en) , (Français=fr) , (Russe=ru) , ..."
+
+#~ msgid "Help "
+#~ msgstr "Aide"
+
+#~ msgid "Do you confirm the suppression of the marker?"
+#~ msgstr "Confirmez-vous la suppression du marqueur ?"

@@ -1,0 +1,166 @@
+/* 1 - Core */
+
+[hidden] {
+    display: none;
+}
+
+.mapmarker a {
+    background-color: transparent; /* 1 */
+    -webkit-text-decoration-skip: objects; /* 2 */
+}
+
+.mapmarker a:active,
+.mapmarkera:hover {
+    outline-width: 0;
+}
+
+.mapmarker abbr[title] {
+    border-bottom: none; /* 1 */
+    text-decoration: underline; /* 2 */
+    text-decoration: underline dotted; /* 2 */
+}
+
+.mapmarker b,
+.mapmarker strong {
+    font-weight: inherit;
+}
+
+.mapmarker b,
+.mapmarker strong {
+    font-weight: bolder;
+}
+
+.mapmarker svg:not(:root) {
+    overflow: hidden;
+}
+
+.mapmarker hr {
+    box-sizing: content-box; /* 1 */
+    height: 0; /* 1 */
+    overflow: visible; /* 2 */
+}
+
+.mapmarker img {
+    max-width: none !important;
+}
+
+/* 2 - Tooltip */
+
+#infobulle *,
+#infobulle *:before,
+#infobulle *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#infobulle {
+    padding-top: 5px !important;
+    max-width: 300px !important;
+    overflow: hidden !important;
+}
+
+#infobulle h2 {
+    margin: 0 0 8px 0 !important;
+    font-size: 18px !important;
+    line-height: 100% !important;
+    font-weight: bold !important;
+}
+
+#infobulle .full-width-desc {
+    width: 100% !important;
+}
+
+#infobulle .full-width-desc-markeur {
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+#infobulle .content-makrer:after {
+    content: "" !important;
+    display: table !important;
+    clear: both !important;
+}
+
+#infobulle .img-in-marqueur,
+#infobulle .wrap-desc-markeur {
+    float: left !important;
+}
+
+#infobulle .img-in-marqueur {
+    width: 25% !important;
+    padding: 3px !important;
+    border: solid 1px #eee !important;
+}
+
+#infobulle .wrap-desc-markeur {
+    width: 75% !important;
+    padding-left: 20px !important;
+}
+
+#infobulle .description-marker {
+    margin: 0 0 10px 0 !important;
+    padding: 10px 13px !important;
+    border: solid 1px #eee !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+    color: #333 !important;
+    background: #f9f9f9 !important;
+    white-space: pre-wrap !important;
+}
+
+#infobulle .contact-list {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#infobulle h2,
+#infobulle .contact-list li,
+#infobulle .contact-list li a {
+    color: #1A1A1A !important;
+}
+
+#infobulle .contact-list li a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+
+#infobulle .contact-list li a:hover {
+    text-decoration: underline !important;
+}
+
+#infobulle .contact-list li {
+    position: relative !important;
+    margin-bottom: 8px !important;
+    padding-left: 15px !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    list-style: none !important;
+    background-image: none !important;
+}
+
+#infobulle .contact-list li.adresse:before,
+#infobulle .contact-list li.telephone:before,
+#infobulle .contact-list li.weblink:before {
+    display: inline-block !important;
+    position: absolute !important;
+    top: 2px !important;
+    left: 0 !important;
+    font: normal normal normal 14px/1 FontAwesome !important;
+    font-size: inherit !important;
+    text-rendering: auto !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+#infobulle .contact-list li.adresse:before {
+    content: '\f041' !important;
+}
+
+#infobulle .contact-list li.telephone:before {
+    content: '\f095' !important;
+}
+
+#infobulle .contact-list li.weblink:before {
+    content: '\f245' !important;
+}

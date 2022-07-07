@@ -1,0 +1,227 @@
+/*
+**
+  1.0 - Core
+  2.0 - Table
+  3.0 - Modal
+  4.0 - Button
+  5.0 - Page
+  6.0 - Input
+**
+*/
+
+/* 1.0 - Core */
+
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+/* 2.0 - Table */
+
+#table_markers thead {
+    white-space: nowrap;
+}
+
+#table_markers input,
+#table_markers textarea {
+    width: 100%;
+}
+
+#table_markers .action {
+    white-space: nowrap;
+}
+
+#table_markers input:disabled,
+#table_markers textarea:disabled {
+    padding: 0;
+    border: none;
+    overflow: hidden;
+    box-shadow: none;
+    resize: none;
+}
+
+#table_markers tfoot {
+    background: #f7f7f7;
+}
+
+.updates-table td input,
+.widefat tfoot td input,
+.widefat th input,
+.widefat thead td input {
+    padding: 5px;
+}
+
+.widefat tfoot td input {
+    margin: 0;
+}
+
+.widefat tfoot textarea {
+    height: 31px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.widefat tfoot td {
+    padding: 15px 10px;
+}
+
+#edit_img_icon_marker_link,
+#edit_img_desc_marker_link {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    cursor: default;
+}
+
+#edit_img_icon_marker_link:focus,
+#edit_img_desc_marker_link:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+
+#edit_img_icon_marker_link.edit-active,
+#edit_img_desc_marker_link.edit-active {
+    cursor: pointer;
+}
+
+#edit_img_icon_marker_link.edit-active:hover:before,
+#edit_img_desc_marker_link.edit-active:hover:before {
+    background: rgba(1,66,93,0.7);
+}
+
+#edit_img_icon_marker_link.edit-active:focus,
+#edit_img_desc_marker_link.edit-active:focus {
+    -webkit-box-shadow: 0 0 0 1px #5b9dd9,0 0 2px 1px rgba(30,140,190,.8);
+    box-shadow: 0 0 0 1px #5b9dd9,0 0 2px 1px rgba(30,140,190,.8);
+}
+
+#edit_img_icon_marker_link.edit-active:before,
+#edit_img_desc_marker_link.edit-active:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(1,66,93,0.8);
+}
+
+#edit_img_icon_marker_link.edit-active:after,
+#edit_img_desc_marker_link.edit-active:after {
+    content: '\f044';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 12px;
+    height: 12px;
+    margin: auto;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    color: #fff;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#edit_img_icon_marker_link img,
+#edit_img_desc_marker_link img {
+    display: block;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#width_map,
+#height_map{
+    vertical-align: middle;;
+}
+
+/* 3.0 - Modal */
+
+.wrap-modal-parent {
+    display: table;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: .95;
+    background: #14485f;
+}
+
+.wrap-modal-child {
+    display: table-cell;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.modal-confirm {
+    display: none;
+    padding: 20px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #fff;
+}
+
+.modal-confirm h4 {
+    margin-top: 0;
+}
+
+/* 4.0 - Button */
+
+.copy-shortcode{
+	font-size: 12px;
+    font-style: italic;
+}
+
+#create_marker {
+    width: 100%;
+}
+
+#create_marker {
+    border-color: #FF5722;
+    text-shadow: 0 -1px 1px #FF5722,1px 0 1px #FF5722,0 1px 1px #FF5722,-1px 0 1px #FF5722;
+    text-transform: uppercase;
+    background: #FF9800;
+    box-shadow: 0 1px 0 #FF5722;
+}
+
+.button-success {
+    border-color: #719E3B !important;
+    text-shadow: 0 -1px 1px #719E3B,1px 0 1px #719E3B,0 1px 1px #719E3B,-1px 0 1px #719E3B !important;
+    background: #4CAF50 !important;
+    box-shadow: 0 1px 0 #719E3B !important;
+}
+
+#valid_edition {
+    outline: none;
+}
+
+#img_desc_marker,
+#img_icon_marker,
+#edit_img_desc_marker,
+#edit_img_icon_marker {
+    display: none;
+    outline: none;
+}
+
+/* 5.0 - Page */
+
+.help-img {
+    margin-top: 15px;
+    border: solid 1px #e8e8e8;
+}
+
+/* 6.0 - Input */
+
+.requiered-error{
+	border: solid 1px #dc3232 !important;
+}

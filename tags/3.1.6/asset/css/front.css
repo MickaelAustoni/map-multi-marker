@@ -1,0 +1,166 @@
+/* 1 - Core */
+
+[hidden] {
+    display: none;
+}
+
+.map-multi-marker a {
+    background-color: transparent; /* 1 */
+    -webkit-text-decoration-skip: objects; /* 2 */
+}
+
+.map-multi-marker a:active,
+.map-multi-markera:hover {
+    outline-width: 0;
+}
+
+.map-multi-marker abbr[title] {
+    border-bottom: none; /* 1 */
+    text-decoration: underline; /* 2 */
+    text-decoration: underline dotted; /* 2 */
+}
+
+.map-multi-marker b,
+.map-multi-marker strong {
+    font-weight: inherit;
+}
+
+.map-multi-marker b,
+.map-multi-marker strong {
+    font-weight: bolder;
+}
+
+.map-multi-marker svg:not(:root) {
+    overflow: hidden;
+}
+
+.map-multi-marker hr {
+    box-sizing: content-box; /* 1 */
+    height: 0; /* 1 */
+    overflow: visible; /* 2 */
+}
+
+.map-multi-marker img {
+    max-width: none !important;
+}
+
+/* 2 - Tooltip */
+
+.map-multi-marker #infobulle *,
+.map-multi-marker #infobulle *:before,
+.map-multi-marker #infobulle *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.map-multi-marker #infobulle {
+    padding-top: 5px !important;
+    max-width: 300px !important;
+    overflow: hidden !important;
+}
+
+.map-multi-marker #infobulle h2 {
+    margin: 0 0 8px 0 !important;
+    font-size: 18px !important;
+    line-height: 100% !important;
+    font-weight: bold !important;
+}
+
+.map-multi-marker #infobulle .full-width-desc {
+    width: 100% !important;
+}
+
+.map-multi-marker #infobulle .full-width-desc-markeur {
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+.map-multi-marker #infobulle .content-makrer:after {
+    content: "" !important;
+    display: table !important;
+    clear: both !important;
+}
+
+.map-multi-marker #infobulle .img-in-marqueur,
+.map-multi-marker #infobulle .wrap-desc-markeur {
+    float: left !important;
+}
+
+.map-multi-marker #infobulle .img-in-marqueur {
+    width: 25% !important;
+    padding: 3px !important;
+    border: solid 1px #eee !important;
+}
+
+.map-multi-marker #infobulle .wrap-desc-markeur {
+    width: 75% !important;
+    padding-left: 20px !important;
+}
+
+.map-multi-marker #infobulle .description-marker {
+    margin: 0 0 10px 0 !important;
+    padding: 10px 13px !important;
+    border: solid 1px #eee !important;
+    font-size: 13px !important;
+    line-height: 16px !important;
+    color: #333 !important;
+    background: #f9f9f9 !important;
+    white-space: pre-wrap !important;
+}
+
+.map-multi-marker #infobulle .contact-list {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.map-multi-marker #infobulle h2,
+.map-multi-marker #infobulle .contact-list li,
+.map-multi-marker #infobulle .contact-list li a {
+    color: #1A1A1A !important;
+}
+
+.map-multi-marker #infobulle .contact-list li a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+
+.map-multi-marker #infobulle .contact-list li a:hover {
+    text-decoration: underline !important;
+}
+
+.map-multi-marker #infobulle .contact-list li {
+    position: relative !important;
+    margin-bottom: 8px !important;
+    padding-left: 15px !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    list-style: none !important;
+    background-image: none !important;
+}
+
+.map-multi-marker #infobulle .contact-list li.adresse:before,
+.map-multi-marker #infobulle .contact-list li.telephone:before,
+.map-multi-marker #infobulle .contact-list li.weblink:before {
+    display: inline-block !important;
+    position: absolute !important;
+    top: 2px !important;
+    left: 0 !important;
+    font: normal normal normal 14px/1 FontAwesome !important;
+    font-size: inherit !important;
+    text-rendering: auto !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+.map-multi-marker #infobulle .contact-list li.adresse:before {
+    content: '\f041' !important;
+}
+
+.map-multi-marker #infobulle .contact-list li.telephone:before {
+    content: '\f095' !important;
+}
+
+.map-multi-marker #infobulle .contact-list li.weblink:before {
+    content: '\f245' !important;
+}
